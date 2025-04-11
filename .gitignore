@@ -1,0 +1,16 @@
+# Ignore model files
+*.h5
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+
+# Ignore notebook checkpoints
+*.ipynb_checkpoints
+
+# Ignore environment folders
+venv/
+env/
