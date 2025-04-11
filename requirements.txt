@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+numpy
+matplotlib
+pillow
+
+// to install run the code pip install -r recquirements.txt //
